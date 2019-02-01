@@ -7,6 +7,8 @@
     <title>Soy el mapa</title>
 </head>
 <body>
-    
+    <h1>jajja</h1>
+    <h2>grpo de muktimesia</h2>
+    <p>bienvenido ala gripo</p>
 </body>
 </html>
